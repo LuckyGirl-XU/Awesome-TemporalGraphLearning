@@ -4,7 +4,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 ## Contents
 
-- [Publications](#Publications)
+- [Four main Categories](#Publications)
   - [Continuous-time Dynamic Graph Learning](#continuous)
   - [Discrete-time Dynamic Graph Learning](#discrete)
   - [Streaming Graph Learning](#streaming)
