@@ -252,6 +252,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 #### 2024
 * Hypergraph Dynamic System (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
+* CAt-Walk: Inductive Hypergraph Learning via Set Walks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6739d8df16b5bce3587ca5f18662a6aa-Paper-Conference.pdf)][[code](https://github.com/ubc-systopia/CATWalk)]
 #### 2023
 
 #### 2019
