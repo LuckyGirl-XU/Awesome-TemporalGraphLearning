@@ -51,6 +51,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (**WWW, 2024**)
 * TATKC: A Temporal Graph Neural Network for Fast Approximate Temporal Katz Centrality Ranking (**WWW, 2024**)
 * Efficient exact and approximate betweenness centrality computation for temporal graphs (**WWW, 2024**)
+* Long Range Propagation on Continuous-Time Dynamic Graphs(**ICML, 2024**) [[paper](https://openreview.net/pdf?id=l6eA8Srlqd)]
 * No Need to Look Back: An Efficient and Scalable Approach for Temporal Network Representation Learning (**arxiv**) [[paper](https://arxiv.org/pdf/2402.01964)][[code](https://github.com/Graph-COM/NLB)]
 
 #### 2023
