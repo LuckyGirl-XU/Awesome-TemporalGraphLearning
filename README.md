@@ -33,7 +33,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 #### 2024
 
-* Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry (**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10528375)][[code](https://github.com/LuckyGirl-XU/STGN)]
+* Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry (**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10528375)]
 * TimeSGN: Scalable and Effective Temporal Graph Neural Network (**ICDE, 2024**)[[paper](https://www.researchgate.net/publication/380698673_TimeSGN_Scalable_and_Effective_Temporal_Graph_Neural_Network)]
 * ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs (**VLDB, 2024**) [[paper](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf)][[code](https://github.com/eddiegaoo/ETC)]
 * TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning (**IPDPS, 2024**) [[paper](https://arxiv.org/abs/2402.05396)][[code](https://github.com/facebookresearch/taser-tgnn)]
@@ -252,9 +252,10 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 #### 2024
 * Hypergraph Dynamic System (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
-* CAt-Walk: Inductive Hypergraph Learning via Set Walks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6739d8df16b5bce3587ca5f18662a6aa-Paper-Conference.pdf)][[code](https://github.com/ubc-systopia/CATWalk)]
 #### 2023
-
+* CAt-Walk: Inductive Hypergraph Learning via Set Walks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6739d8df16b5bce3587ca5f18662a6aa-Paper-Conference.pdf)][[code](https://github.com/ubc-systopia/CATWalk)]
+### 2022
+* Neural Predicting Higher-order Patterns in Temporal Networks [[paper](https://dl.acm.org/doi/10.1145/3485447.3512181)][[code](https://github.com/Graph-COM/Neural_Higher-order_Pattern_Prediction)]
 #### 2019
 * Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 
