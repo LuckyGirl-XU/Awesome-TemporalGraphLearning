@@ -203,8 +203,8 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 ### 2022
 * Discrete-time dynamic graph echo state networks [[paper](https://pdf.sciencedirectassets.com/271597/1-s2.0-S0925231222X00222/1-s2.0-S092523122200532X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBV%2B2%2BfUpcZm1V4vLY4n21MPOJHjBtbzwg0Clqhdy9VEAiAs0CSyYcqCNHBSA2gBjU6k67VA88HDtp09KV%2FyLL9Xgyq8BQjt%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMge27fWXs4DuY7dCCKpAFkdk7icL6qhV8tJZvlZHV3VrsVW3F7%2BvC%2B%2FXDhc%2BAEmPc41ukPqgMSDbPo%2FY157oKfg3ECNk%2Fp6IH%2B8Wnml4u18J3%2Fz2RMiC9xsINOoXloNbkRFqaxBH11Qk%2FvZX3VFN3hhcqonxfxVqmhH6nwkSEbVbrG34QxpwylCzszdWAOukhSFXOLilsrmLmj8I4VkOgDYJ44GWri7UcTvyf6HfU8PLiuq6Aaes%2FZC2tMbeHErUeZsfHE%2BP5W17xtio4egC9lmsRj1pVhg1oEHBz6PEckDlusHPyRVsdGVfMOIBkfn007bx%2FFLABDzcn%2BdOR8J2n6rf67vIpdiCJ3FtptEVBveyPui5ufv6DayWd8WKs%2Bh0mKw1ebyp8DLMUttwCoTnuiEeY16XzFAnWkVaDKUQG3tMbzBcnhXSKJ%2Bw2st0g0ePDyMCKWvPYouwFHScq68wS6YmrqLtW81xCvE4L3KM7aP%2FfM2aJxsE0IhA04OLerDmINWPz5kx4%2BE0vYRA9p6afb2G%2BdFbgwvjNJaTkysBg4vCXo7RHwBlHrrvmmaaMGtRi3quPFtbrhrYXY2%2F5zBDurZJV0oAljQ3R8W4KLaZs77RzFgEmSu8Wii5oWKFpln%2Fq%2BDJ68e9yaiuXPNVTQ%2Fd0cAuixpNvwiss4gZarqbQMii7ev5xV0VA6fozFJ0gbhc5pLuZo2z2bu7is7Akfo9RcJ9B%2Bd4hUhwdHquuEPVDebEa9gevQ6X%2BWa4E5aWfwGzG%2F9qYA9IXei91ck1s8b1XLWoXaYr6G2%2B7csBru0CvpBIRwgLnjFqsvY6kLx9QWXUFV78tydKPZX%2BlFamGqki%2Fknvov7cM5tkul2JyV7iNGVxYfS%2FbCiK0h7v%2B66TuOkEwnKCisgY6sgEvq0nD2eoBOWs%2B6hCk%2FecEz1F9WYeC2%2FSXmYVFzFepnleI%2BLhYTKsle%2BrFhb%2FRManYOYzcaErGaLncRLSWYWlRYj6EQZeZBCR5LKQWR%2FWhHQo3ZAqtMet2AalM0nfxc5m35asLfH%2BexEkTO0dhk8bAv9qaf8bAiSH3H3CUoW7IA%2B0XOmPgRYJ0xvdDu7lM6Yxu94k1hOpdi7VUYAYuOKFqz5dY56dhwiFHh55nkhELTnjU&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240518T131339Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYT37Q4AUO%2F20240518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1db078c3f919a2138aae6df33317f844f3a9560e38a80f378194af021fafde05&hash=d984aa3c3e8b8d26eede8bdb82cdf3f255972704fd00ea076d8179f20be9211d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S092523122200532X&tid=spdf-c9029074-ec2c-4cba-8178-38ddb335b70f&sid=5c13df9d9fd1c843a10aad58dc7e2ac4def4gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d095d565b0d5103&rr=885c1b157ffe15c6&cc=cn)]
-* ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD**) [[paper](https://arxiv.org/pdf/2208.07239)]
 * Scalable Spatiotemporal Graph Neural Networks (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25880/25652)]
+* ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD**) [[paper](https://arxiv.org/pdf/2208.07239)]
 
 ### 2021
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467422)][[code](https://github.com/marlin-codes/HTGN)]
@@ -212,19 +212,20 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 ### 2020
 * Transfer Graph Neural Networks for Pandemic Forecasting (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16616/16423)]
 * dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning [[paper](https://arxiv.org/pdf/1809.02657)]
+* Sign: Scalable inception graph neural networks [[paper](https://arxiv.org/pdf/2004.11198)]
 
 ### 2019
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467422)][[code](https://github.com/marlin-codes/HTGN)]
-* Predicting Path Failure In Time-Evolving Graphs [[paper](https://arxiv.org/pdf/1905.03994)]
+* Predicting Path Failure In Time-Evolving Graphs (**KDD**) [[paper](https://arxiv.org/pdf/1905.03994)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD**) [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)]
 * EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI**) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/5984/5840)]
-* Predictive temporal embedding of dynamic graphs [[paper](https://dl.acm.org/doi/pdf/10.1145/3341161.3342872)]
+* Predictive temporal embedding of dynamic graphs (**ASONAM**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3341161.3342872)]
 
 ### 2018
 * GC-LSTM: Graph convolution embedded LSTM for dynamic network link prediction [[paper](https://arxiv.org/pdf/1812.04206)]
-* Modeling Relational Data with Graph Convolutional Networks [[paper](https://arxiv.org/pdf/1703.06103)]
+* Modeling Relational Data with Graph Convolutional Networks (**ESWC**) [[paper](https://arxiv.org/pdf/1703.06103)]
 * DynGEM: Deep Embedding Method for Dynamic Graphs [[paper](https://arxiv.org/pdf/1805.11273)]
-* evolve2vec: Learning Network Representations Using Temporal Unfolding [[paper](https://www.academia.edu/download/83273622/978-3-030-05710-7_37.pdf)]
+* evolve2vec: Learning Network Representations Using Temporal Unfolding (**MMM**) [[paper](https://www.academia.edu/download/83273622/978-3-030-05710-7_37.pdf)]
 
 
 <a name="streaming" />
