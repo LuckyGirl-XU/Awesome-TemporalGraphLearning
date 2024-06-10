@@ -46,7 +46,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=uvFhCUPjtI&name=pdf)][[code](https://github.com/ansonb/EFT)]
 * Temporal Generalization Estimation in Evolving Graphs (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=HFtrXBfNru&name=pdf)]
 * Dynamic Graph Information Bottleneck (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2402.06716.pdf)][[code](https://github.com/RingBDStack/DGIB)]
-* On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2401.14009.pdf)]
+* On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2401.14009.pdf)][[code](https://github.com/YuxiaWu/SimpleDyG)]
 * Temporal Conformity-aware Hawkes Graph Network for Recommendations (**WWW, 2024**) 
 * IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (**WWW, 2024**)
 * TATKC: A Temporal Graph Neural Network for Fast Approximate Temporal Katz Centrality Ranking (**WWW, 2024**)
