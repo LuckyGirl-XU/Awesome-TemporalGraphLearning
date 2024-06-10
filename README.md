@@ -38,6 +38,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs (**VLDB, 2024**) [[paper](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf)][[code](https://github.com/eddiegaoo/ETC)]
 * TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning (**IPDPS, 2024**) [[paper](https://arxiv.org/abs/2402.05396)][[code](https://github.com/facebookresearch/taser-tgnn)]
 * Mayfly: a Neural Data Structure for Graph Stream Summarization (**ICLR, 2024, Spotlight**) [[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)]
+* Temporal Graph Benchmark for Machine Learning on Temporal Graphs (**NeurIPS, 2024**)[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/066b98e63313162f6562b35962671288-Paper-Datasets_and_Benchmarks.pdf)]
 * Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)][[code](https://github.com/kesenzhao/DyGNNExplainer)]
 * FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=82Mc5ilInM&name=pdf)][[code](https://github.com/Tianxzzz/FreeDyG)]
 * PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=gjXor87Xfy&name=pdf)][[code](https://github.com/jwsu825/MDGNN_BS)]
