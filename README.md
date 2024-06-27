@@ -193,6 +193,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 ### 2024
 * Deep Temporal Graph Clustering (**ICLR**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
+* SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement[[paper](https://dl.acm.org/doi/pdf/10.1145/3654977)][[code](https://github.com/eddiegaoo/SIMPLE)]
 
 ### 2023
 * HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583455)]
