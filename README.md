@@ -189,7 +189,8 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 ### Discrete-time Dynamic Graph Learning
 
 ### Survey
-* Deep learning for dynamic graphs: models and benchmarks [[paper](https://arxiv.org/pdf/2307.06104v2)]
+* Deep learning for dynamic graphs: models and benchmarks (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2307.06104v2)]
+* Encoder-Decoder Architecture for Supervised Dynamic Graph Learning: A Survey (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2203.10480)]
 
 ### 2024
 * Deep Temporal Graph Clustering (**ICLR**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
