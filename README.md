@@ -204,6 +204,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Decoupled Graph Neural Networks for Large Dynamic Graphs (**VLDB**) [[paper](https://arxiv.org/pdf/2305.08273)]
 * SEIGN: A Simple and Efficient Graph Neural Network for Large Dynamic Graphs (**ICDE**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184567)]
 * Continual Learning on Dynamic Graphs via Parameter Isolation (**SIGIR**) [[paper](https://arxiv.org/pdf/2305.13825)][[code](https://github.com/Jerry2398/PI-GNN)]
+* Live Graph Lab: Towards Open, Dynamic and Real Transaction Graphs with NFT (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/3be31c1a2fdcb7b748c53c3f4cb0e9d2-Paper-Datasets_and_Benchmarks.pdf)][[code](https://github.com/livegraphlab/code)]
 
 ### 2022
 * TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs (**VLDB, 2022**) [[paper](https://arxiv.org/pdf/2203.14883.pdf)][[code](https://github.com/amazon-science/tgl)]
