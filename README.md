@@ -197,6 +197,9 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement (**SIGMOD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3654977)][[code](https://github.com/eddiegaoo/SIMPLE)]
 * On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622)][[code](https://github.com/YuxiaWu/SimpleDyG)]
 * Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29239/30339)][[code](https://github.com/wooner49/T-spear-shield)]
+* Continuous-Time Graph Representation with Sequential Survival Process (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28995/29890)][[code](https://github.com/abdcelikkanat/grassp)]
+* Toward a Manifold-Preserving Temporal Graph Network in Hyperbolic Space (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2024/0484.pdf)][[code](https://github.com/quanlv9211/HMPTGN)]
+* Reducing Resource Usage for Continuous Model Updating and Predictive Query Answering in Graph Streams (**ICDE**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10598027)]
 
 ### 2023
 * HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583455)]
@@ -207,6 +210,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * SEIGN: A Simple and Efficient Graph Neural Network for Large Dynamic Graphs (**ICDE**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184567)]
 * Continual Learning on Dynamic Graphs via Parameter Isolation (**SIGIR**) [[paper](https://arxiv.org/pdf/2305.13825)][[code](https://github.com/Jerry2398/PI-GNN)]
 * Live Graph Lab: Towards Open, Dynamic and Real Transaction Graphs with NFT (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/3be31c1a2fdcb7b748c53c3f4cb0e9d2-Paper-Datasets_and_Benchmarks.pdf)][[code](https://github.com/livegraphlab/code)]
+* Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bf12308ece130daa083fb21f7faf1b6-Paper-Conference.pdf)][[code](https://github.com/RingBDStack/EAGLE)]
 
 ### 2022
 * TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs (**VLDB, 2022**) [[paper](https://arxiv.org/pdf/2203.14883.pdf)][[code](https://github.com/amazon-science/tgl)]
