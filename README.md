@@ -195,7 +195,8 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 ### 2024
 * Deep Temporal Graph Clustering (**ICLR**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
 * SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement (**SIGMOD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3654977)][[code](https://github.com/eddiegaoo/SIMPLE)]
-* On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622)][[code]([https://github.com/eddiegaoo/SIMPLE](https://github.com/YuxiaWu/SimpleDyG))]
+* On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622)][[code](https://github.com/YuxiaWu/SimpleDyG)]
+* Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29239/30339)][[code](https://github.com/wooner49/T-spear-shield)]
 
 ### 2023
 * HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583455)]
