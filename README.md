@@ -31,6 +31,10 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Temporal networks (**Physics Report, 2012**) [[paper](https://pdf.sciencedirectassets.com/271542/1-s2.0-S0370157312X00309/1-s2.0-S0370157312000841/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCKOucVujQP07wkAKxMuMLMSsHqFv%2FFb%2BYWtNrMjUENTwIgWQ3afs%2FTBaPhDmEiZPlrVllfwmAmEN9OMs0ReONp0PIq%2BgMIOxAEGgwwNTkwMDM1NDY4NjUiDHz5nNBj0grdhs2zQirXA6ElLZy%2FDlDSDU86oA74varszz0ma8Dbz0g92LEczi64XvbCAHQmPQIiskdJpYzeQQCoHHQwirdve6OhcF6pTJwGbJ2lL84oSrywuWhi6Z0e9kdtLUw2deUEHp2La7FUeebH%2FnHaHV3BpYfl2%2BXA0Y1zI67VWbtXv6MALP6e9THRpRmS6omIAgiB9u6bOm3NDQ4hC7Cp%2F22gUvRvSOm14Y%2F9s2kk7QcqRxTMDTW94Dbtty2O8Pw54CJulxcOo7Nby7%2FXrarewlMgFBxCwhNteoXaVviFrgl91rtQTq5EnU9HEBntgE0r8z%2F0e%2FGh1JuYvd0aK5FzC2ZTGjFHNq7bx%2BdscwV1QiLkiVHsNKc2CURzGvUx0dRFIud8w3PkH7aZVESvKlNvLyKa%2FgL4TU%2B0n5j92ppZHbC3DfB8kwZV1I1QFzB7mFmhdpoAWFlXXY2xxPPkQqsV1%2BsPanWb9JIgkpBnu5ZO2xmVHPRSlvL%2BUTKvD3Jq0LmqEYo1tFy3F4sYEmGV4vw0RKKo7tOYb8SFgdTw26SVhera5aeLIwSFZYAvv0wRb%2BsXgoPJK51YLI1XTXnNep%2FWNLv1Gem993YkpKZdgmoEpPheKv1%2B85mELU1J82NJeExBXTDumIiTBjqlAUQbPzomGso8OdXiqdTW8V8WaRL%2B0ZgHpf3Kzcb3k2W%2FWSKiA91fU6BA%2FTFUUd2iafG1k%2Bgm8Yvli8YBEroGEXmUOH5IdiIyFTIUL7BfcyvedVwWbBCVoGyLxs48G6KWaVwowy2XYP%2BXHfbDghl6NNzdaUwlWc1blXx%2BkkoUq1ZIwsAzhLrwLthvrB%2BLeKT8IdYOWCDhjSdy%2BsHs6t%2F4WEMwQVHScg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220422T030440Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3GYD4RGC%2F20220422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e6c67c850d5b9141253837519a558f2d56ee022ea163233ccf17b88f9815df4f&hash=5c12a8966a05652f2c4464fea3e79f3c7f669cf94a84365674e2e0647371a431&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0370157312000841&tid=spdf-a3f8bf90-014a-4f05-ba9e-eebf11a58a9a&sid=55bff1c97359b9450988c4c294161bf31292gxrqa&type=client&ua=4c00050055575755530304&rr=6ffb22261cbf968e)]
 * Deep learning for dynamic graphs: models and benchmarks (**TNNLS, 2024**) [[paper](https://arxiv.org/pdf/2307.06104v2)]
 
+#### 2025
+
+* Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach (**WWW, 2025**)
+
 #### 2024
 
 * Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry (**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10528375)][[code](https://github.com/LuckyGirl-XU/STGN)]
@@ -242,6 +246,24 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * evolve2vec: Learning Network Representations Using Temporal Unfolding (**MMM**) [[paper](https://www.academia.edu/download/83273622/978-3-030-05710-7_37.pdf)]
 
 
+<a name="hyper" />
+
+### Temporal Hypergraph Learning
+
+### Survey
+
+#### 2025
+* Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction (**KDD, 2025**)
+
+#### 2024
+* Hypergraph Dynamic System (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
+#### 2023
+* CAt-Walk: Inductive Hypergraph Learning via Set Walks (**NeurIPS, 2023**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6739d8df16b5bce3587ca5f18662a6aa-Paper-Conference.pdf)][[code](https://github.com/ubc-systopia/CATWalk)]
+### 2022
+* Neural Predicting Higher-order Patterns in Temporal Networks (**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512181)][[code](https://github.com/Graph-COM/Neural_Higher-order_Pattern_Prediction)]
+#### 2019
+* Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
+
 <a name="streaming" />
 
 ### Streaming Graph Learning
@@ -262,20 +284,6 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
 * Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
 
-<a name="hyper" />
-
-### Temporal Hypergraph Learning
-
-### Survey
-
-#### 2024
-* Hypergraph Dynamic System (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
-#### 2023
-* CAt-Walk: Inductive Hypergraph Learning via Set Walks (**NeurIPS, 2023**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6739d8df16b5bce3587ca5f18662a6aa-Paper-Conference.pdf)][[code](https://github.com/ubc-systopia/CATWalk)]
-### 2022
-* Neural Predicting Higher-order Patterns in Temporal Networks (**WWW, 2022**) [[paper](https://dl.acm.org/doi/10.1145/3485447.3512181)][[code](https://github.com/Graph-COM/Neural_Higher-order_Pattern_Prediction)]
-#### 2019
-* Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 
 <a name="tools" />
 
