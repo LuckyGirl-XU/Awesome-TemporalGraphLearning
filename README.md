@@ -54,6 +54,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Efficient exact and approximate betweenness centrality computation for temporal graphs (**WWW, 2024**)
 * Long Range Propagation on Continuous-Time Dynamic Graphs(**ICML, 2024**) [[paper](https://openreview.net/pdf?id=l6eA8Srlqd)]
 * No Need to Look Back: An Efficient and Scalable Approach for Temporal Network Representation Learning (**arxiv**) [[paper](https://arxiv.org/pdf/2402.01964)][[code](https://github.com/Graph-COM/NLB)]
+* SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement (**SIGMOD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3654977)][[code](https://github.com/eddiegaoo/SIMPLE)]
 
 #### 2023
 
@@ -194,7 +195,6 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 ### 2024
 * Deep Temporal Graph Clustering (**ICLR**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
-* SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement (**SIGMOD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3654977)][[code](https://github.com/eddiegaoo/SIMPLE)]
 * On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622)][[code](https://github.com/YuxiaWu/SimpleDyG)]
 * Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29239/30339)][[code](https://github.com/wooner49/T-spear-shield)]
 * Continuous-Time Graph Representation with Sequential Survival Process (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28995/29890)][[code](https://github.com/abdcelikkanat/grassp)]
