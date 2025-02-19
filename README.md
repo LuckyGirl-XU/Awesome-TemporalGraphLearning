@@ -1,4 +1,4 @@
-# Awesome-TemporalGraphLearning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-DynamicGraphLearning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome papers (codes) about machine learning (deep learning) on **time-aware graphs** and their applications (i.e., Recommender Systems).
 
