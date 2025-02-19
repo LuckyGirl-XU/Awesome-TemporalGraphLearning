@@ -33,8 +33,8 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 #### 2024
 
-* Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry (**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10528375)]
-* TimeSGN: Scalable and Effective Temporal Graph Neural Network (**ICDE, 2024**)[[paper](https://www.researchgate.net/publication/380698673_TimeSGN_Scalable_and_Effective_Temporal_Graph_Neural_Network)]
+* Scalable and Effective Temporal Graph Representation Learning With Hyperbolic Geometry (**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10528375)][[code](https://github.com/LuckyGirl-XU/STGN)]
+* TimeSGN: Scalable and Effective Temporal Graph Neural Network (**ICDE, 2024**)[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597745)][[code](https://github.com/LuckyGirl-XU/TimeSGN)]
 * ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs (**VLDB, 2024**) [[paper](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf)][[code](https://github.com/eddiegaoo/ETC)]
 * TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning (**IPDPS, 2024**) [[paper](https://arxiv.org/abs/2402.05396)][[code](https://github.com/facebookresearch/taser-tgnn)]
 * Mayfly: a Neural Data Structure for Graph Stream Summarization (**ICLR, 2024, Spotlight**) [[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)]
